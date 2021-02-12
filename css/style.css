@@ -1,0 +1,35 @@
+.header {
+    height: 200px;
+    background-color: #E5E000;
+    
+}
+
+.header h1 {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 50px;
+}
+
+.paragraph {
+    height: 100px;
+    background-color: #E5E000;
+    color: white;
+    font-size: 50px;
+}
+.text {
+    height: 637px;
+    font-family: Helvetica;
+    font-size: 50px;
+}
+
+.text2 {
+    font-family: Helvetica;
+    text-align: right;
+    font-size: 50px;
+}
+
+
+.footer {
+    height: 200px;
+    background-color: #E5E000;
+}
